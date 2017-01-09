@@ -14,7 +14,7 @@ git add : 인덱스에 추가한다
 
 git commit : 로컬 저장소에 추가한다
 
-git status
+git status : git의 현재상태를 확인한다
 
 git log
 
