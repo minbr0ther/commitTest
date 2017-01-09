@@ -10,9 +10,9 @@
 
 git init : git을 초기화 한다
 
-git add
+git add : 인덱스에 추가한다
 
-git commit
+git commit : 로컬 저장소에 추가한다
 
 git status
 
