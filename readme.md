@@ -18,8 +18,8 @@ git status : git의 현재상태를 확인한다
 
 git log
 
-'''bash
+```bash
 $ git log --oneline --graph --decorate
-'''
+```
 
 안녕!
